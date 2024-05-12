@@ -1,0 +1,3 @@
+Második lépésben elkészítettük a bejelentkezés, és regisztráció menüpontot, ezzel együtt összekötöttük az adatbázissal, amiben elmenti a felhasználók adatait. A jelszó kódolva kerül mentésre.
+Bejelentkezett felhasználónál eltűnik a bejelentkezés, és megjelenik a kijelentkezés.
+A beregisztrált felhasználókat nem jelentkezteti be egyből

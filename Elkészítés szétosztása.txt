@@ -1,0 +1,7 @@
+A készítésben részt vett:
+Medveczki Jenő(P5ISUH)
+Bacsik Bence(QXDKD2)
+
+A szétosztás: 
+1-3 lépést Bacsik Bence csinálta: Tehát a főoldal tervezése, Bejelentkezés, regisztráció, adatbázissal való kommunikáció, És az autók menüpontot
+4-5 lépést Medveczki Jenő csinálta: Tehát az űrlapot, A videó és térkép elhelyezését, az autók adatbázissal való munkálatokat

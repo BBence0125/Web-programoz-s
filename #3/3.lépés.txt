@@ -1,0 +1,2 @@
+Harmadik lépésben elkészítettük az Autók menüpontot, ahová az általunk,(később a felhasznaló által is) feltöltött autók jelennek meg.
+Itt került elkészítésre a felhasználó által feltölthető kép, amivel nem csak az autók képét lehet feltölteni, hanem az adatait is.
