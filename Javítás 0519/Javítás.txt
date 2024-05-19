@@ -1,0 +1,2 @@
+Az itt található fájlokban ki lett javítva, hogy működőképes legyen a Front Controller.
+Ez csak az egyik fele, a másik felét Medveczki Jenő csinálta.
